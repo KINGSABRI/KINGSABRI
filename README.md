@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingsabri" alt="kingsabri" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kingsabri" target="blank"><img src="https://img.shields.io/twitter/follow/kingsabri?logo=twitter&style=for-the-badge" alt="kingsabri" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kingsabri" target="blank"><img src="https://img.shields.io/twitter/follow/KINGSABRI?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=1da1f2" alt="kingsabri" /></a> </p>
 
 - 👨‍💻 Check out my book on Amazon [Black Hat Ruby — Offensive Ruby programming book for hackers & pentesters](https://amazon.com/dp/B08JHSF6GT)
 
